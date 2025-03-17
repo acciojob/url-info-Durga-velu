@@ -1,4 +1,6 @@
 //your JS code here. If required.
-let n=window.location.href.length
-alert(n)
+var n=window.location.href.length
+window.alert(`The length of the URL is: ${n}` )
+
+
 
